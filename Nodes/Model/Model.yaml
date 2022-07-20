@@ -4,7 +4,7 @@ Children:
 - Name: Variable1
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
+  Value: 55
 - Name: Variable2
   Type: BaseDataVariableType
   DataType: Int32
@@ -38,6 +38,10 @@ Children:
   DataType: Int32
   Value: 0
 - Name: Variable10
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable11
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
