@@ -15,7 +15,7 @@ Project:
   3:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 45.1
+   Version: 43.1
   4:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
